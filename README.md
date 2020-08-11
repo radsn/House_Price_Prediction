@@ -16,5 +16,6 @@ Predict house prices in Ames, Iowa using various machine learning models
 - Feature Engineer (generate new features)
 - Dummify
 - Split back into Train and Test and Export Data into csv files
-- Model Testing And Running: Lasso, Ridge, ElasticNet, XGBoost, Huber
+- Model Testing And Running: Lasso, Ridge, ElasticNet, Huber, RandomForest, GradientBoost, XGBoost
 - Prediction
+- Model Selection
