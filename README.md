@@ -1,6 +1,8 @@
 # House Price Prediction
 Predict house prices in Ames, Iowa using various machine learning models
 
+Iowa Housing Price Prediction Kaggle competiton: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+
 #### Project Flow: 
 - Import Libraries and Read Data
 - Look at each column in the training data - understand its purpose and importance
